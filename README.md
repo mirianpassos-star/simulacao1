@@ -19,3 +19,9 @@ aqui vocês podem colocar o publico,ou melhor,para quem o produto é direcionado
 
 ## OBJETIVO 
 aqui vocês podem colocar os objetivos 
+
+ - Objetivo 1
+ - Objetivo 2
+ - Objetivo 3
+
+ 
