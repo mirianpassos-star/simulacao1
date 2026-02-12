@@ -1,3 +1,51 @@
+# Pull Request
+
+## Descrição
+Explique brevemente o que esse PR faz e porque é necessário.
+
+## Tipo de Mudança 
+Seleione as oções aplicáveis:
+
+-[] Bug fix (correção de errro)
+-[] Nova feature
+-[] Alação de feature existente
+-[] Documentação 
+-[] Refatoração 
+-[] Outro (descrever)
+
+## Issue relacionada 
+Closes #<número_da_issue>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
